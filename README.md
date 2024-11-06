@@ -1,6 +1,5 @@
 # 798R_phase2
 
-Instrucrtions :
 Install Dependencies
 Use the requirements.txt file to install all required libraries for the project.
 
